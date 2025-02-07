@@ -39,7 +39,7 @@ pip install frida-tools
 Run the script to start scanning for the Geometry Dash process and analyze FPS/VSync memory values:
 
 ```sh
-python script.py
+python rt2.py
 ```
 
 Follow the interactive prompts to patch FPS or VSync settings.
